@@ -1,0 +1,6 @@
+{
+  "versionCode": 25,
+  "versionName": "2.7.2",
+  "apk": "https://raw.githubusercontent.com/ricosantos1972/rico-streaming-app/main/RicoStreaming.apk",
+  "notes": "Novidades: tela de detalhes de filmes e séries, controle dos pais, catch-up, lembretes de programa, ao vivo com menos atraso e servidor reserva automático"
+}
