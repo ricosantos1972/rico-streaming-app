@@ -1,0 +1,6 @@
+{
+  "versionCode": 34,
+  "versionName": "2.8.3",
+  "apk": "https://raw.githubusercontent.com/ricosantos1972/rico-streaming-app/main/RicoStreaming.apk",
+  "notes": "Séries: o próximo episódio começa sozinho (aviso 60s antes, voltar cancela) e passa para a próxima temporada."
+}
