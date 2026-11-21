@@ -1,0 +1,6 @@
+{
+  "versionCode": 42,
+  "versionName": "2.8.9",
+  "apk": "https://raw.githubusercontent.com/ricosantos1972/rico-streaming-app/main/RicoStreaming.apk",
+  "notes": "Canais abrem mais rápido: se um canal não responder, o app tenta outro formato na hora e avisa em poucos segundos"
+}

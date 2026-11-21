@@ -1,0 +1,6 @@
+{
+  "versionCode": 38,
+  "versionName": "2.9.5",
+  "apk": "https://raw.githubusercontent.com/ricosantos1972/rico-streaming-app/main/mavi/MaviStreaming.apk",
+  "notes": "Guia Agora/A seguir ao trocar de canal; reconexão mais rápida (volta ao ao vivo, retoma quando a internet volta); menos travamentos em TV Box com pouca memória"
+}
